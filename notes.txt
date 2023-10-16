@@ -1,0 +1,27 @@
+Storytelling - giving more information or details of a certain topic in a way that captivates 
+               the audience.
+               using visual elements to narratives for your audience.
+               INvolves creating a cohesive and persuasive narrative around a product.
+               THe purpose? the problem it solves? and how does it fit into users lives?
+
+Storytelling setup: 
+
+1. Setup - introduce the type of users, what kind of persons are they?, 
+           what attributes do they have?
+2. Showing the problem - make sure your audience understands the difficulties or the problem that 
+                        your users are going through.
+3. Showing solution and process followed - show the process on how you arrived to solve a solution.
+4. Show resolution - show the growth after the journey, how did your users benefit from the design 
+solution presented
+
+Freytag's Pyramid/dramatic structure - is a Storytelling framework that is mostly used in literature 
+and theaters. Exposition, Rising action, Climax, Falling action and resolution
+
+Exposition - sets the stage for presentation. introduce audience to the context, the problem, 
+             the key users/characters
+Rising action - build tension and excitement, present obstacles complexitites and conflicts
+Climax - the turning point, where solution or ingenious ways of solving the challenges at the rising action
+          stage is unveiled.
+Falling action - provide necessary explanation and resolution, so as to eradicate the ambiguity in your
+        audience, make your audience understand the proposed solution.
+Resolution - this phase ensures audience leave with a sense of purpose.
